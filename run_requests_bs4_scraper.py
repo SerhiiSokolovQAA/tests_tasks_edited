@@ -1,3 +1,7 @@
+"""
+File to run script for parsing products from the brain.com.ua website via Requests/BS4 and saving them into the Product model
+"""
+
 import os
 import sys
 import json

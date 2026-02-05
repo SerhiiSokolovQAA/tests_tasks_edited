@@ -1,5 +1,5 @@
 """
-Файл для запуска скрапера товаров из корня проекта.
+File to run script for parsing products from the brain.com.ua website via Playwright and saving them into the Product model
 """
 
 import os

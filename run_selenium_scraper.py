@@ -1,3 +1,8 @@
+"""
+File to run script for parsing products from the brain.com.ua website via Selenium and saving them into the Product model
+"""
+
+
 import os
 import sys
 import importlib.util
